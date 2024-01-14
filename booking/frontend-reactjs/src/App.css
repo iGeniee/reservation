@@ -1,0 +1,15 @@
+* {
+    font-family: "Poppins Regular";
+}
+#panel-calendar {
+    width: 20vw;
+    height: 100vh;
+    padding: 8px;
+    background: url("../public/images/pool.jpg");
+    display: flex;
+    flex-direction: column;
+}
+#panel-events {
+    padding: 0 64px 0 64px;
+    background-color: white;
+}
